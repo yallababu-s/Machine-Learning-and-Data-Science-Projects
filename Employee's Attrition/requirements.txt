@@ -1,0 +1,21 @@
+numpy==1.26.4
+pandas==2.2.2
+wheel==0.43.0
+scikit-learn==1.4.2
+matplotlib==3.8.4
+flask==3.0.3
+
+NumPy 2.1.0: This version supports Python 3.13.1. 
+ANACONDA DOCUMENTATION
+
+Pandas 2.2.2: This version supports Python 3.13.1. 
+ANACONDA DOCUMENTATION
+
+Wheel 0.43.0: This version supports Python 3.13.1.
+
+Scikit-learn 1.4.2: This version requires Python 3.9 or newer and supports Python 3.13.1. 
+SCIKIT-LEARN
+
+Matplotlib 3.8.4: This version supports Python 3.13.1.
+
+Flask 3.0.3: This version supports Python 3.13.1.
